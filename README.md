@@ -1,1 +1,1 @@
-# -znitelik-
+# -oznitelik-
